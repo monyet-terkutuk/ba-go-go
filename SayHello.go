@@ -1,5 +1,5 @@
 package ba_go_go
 
-func SayHello(name string) string {
-	return name
+func SayHello() string {
+	return "Manusia manusia Pemalas"
 }
